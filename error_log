@@ -1,0 +1,112 @@
+[09-May-2018 04:52:06 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/gladxcww/public_html/amrutkesarpowder/application/views/Powder_detail.php on line 82
+[09-May-2018 06:55:34 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/gladxcww/public_html/amrutkesarpowder/application/views/Powder_detail.php on line 82
+[10-May-2018 10:31:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/gladxcww/public_html/amrutkesarpowder/application/views/Header.php on line 7
+[10-May-2018 10:31:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/gladxcww/public_html/amrutkesarpowder/application/views/Header.php on line 7
+[10-May-2018 10:31:41 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/gladxcww/public_html/amrutkesarpowder/application/views/Header.php on line 7
+[10-May-2018 10:31:41 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/gladxcww/public_html/amrutkesarpowder/application/views/Header.php on line 7
+[23-May-2018 04:27:36 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/gladxcww/public_html/amrutkesarpowder/application/views/Index.php on line 342
+[23-May-2018 10:53:54 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/gladxcww/public_html/amrutkesarpowder/application/views/Index.php on line 634
+[24-May-2018 07:18:13 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/gladxcww/public_html/amrutkesarpowder/application/views/Header.php on line 42
+[12-Jun-2018 14:16:49 UTC] PHP Notice:  Undefined index: name in /home/clonemarkets/public_html/hpcourier/signup.php on line 4
+[12-Jun-2018 14:16:49 UTC] PHP Notice:  Undefined index: email in /home/clonemarkets/public_html/hpcourier/signup.php on line 5
+[12-Jun-2018 14:16:49 UTC] PHP Notice:  Undefined index: phone in /home/clonemarkets/public_html/hpcourier/signup.php on line 6
+[12-Jun-2018 14:16:49 UTC] PHP Notice:  Undefined index: password in /home/clonemarkets/public_html/hpcourier/signup.php on line 7
+[12-Jun-2018 14:16:49 UTC] PHP Notice:  Undefined index: c_password in /home/clonemarkets/public_html/hpcourier/signup.php on line 8
+[12-Jun-2018 14:16:49 UTC] PHP Notice:  Undefined index: email in /home/clonemarkets/public_html/hpcourier/login.php on line 5
+[12-Jun-2018 14:16:49 UTC] PHP Notice:  Undefined index: password in /home/clonemarkets/public_html/hpcourier/login.php on line 6
+[14-Jun-2018 07:26:10 UTC] PHP Fatal error:  Cannot redeclare Admin_user::edit_admin_user() in /home/clonemarkets/public_html/hpcourier/application/controllers/admin/Admin_user.php on line 71
+[14-Jun-2018 07:26:10 UTC] PHP Fatal error:  Cannot redeclare Admin_user::edit_admin_user() in /home/clonemarkets/public_html/hpcourier/application/controllers/admin/Admin_user.php on line 71
+[14-Jun-2018 07:36:07 UTC] PHP Fatal error:  Cannot redeclare Admin_user_model::admin_user_display() in /home/clonemarkets/public_html/hpcourier/application/models/admin/Admin_user_model.php on line 105
+[14-Jun-2018 07:36:09 UTC] PHP Fatal error:  Cannot redeclare Admin_user_model::admin_user_display() in /home/clonemarkets/public_html/hpcourier/application/models/admin/Admin_user_model.php on line 105
+[14-Jun-2018 07:36:26 UTC] PHP Fatal error:  Cannot redeclare Admin_user_model::admin_user_display() in /home/clonemarkets/public_html/hpcourier/application/models/admin/Admin_user_model.php on line 105
+[14-Jun-2018 09:41:44 UTC] PHP Fatal error:  Cannot redeclare Admin_user_model::get_admin_role_id() in /home/clonemarkets/public_html/hpcourier/application/models/admin/Admin_user_model.php on line 113
+[14-Jun-2018 09:41:46 UTC] PHP Fatal error:  Cannot redeclare Admin_user_model::get_admin_role_id() in /home/clonemarkets/public_html/hpcourier/application/models/admin/Admin_user_model.php on line 113
+[14-Jun-2018 13:01:41 UTC] PHP Notice:  Undefined index: name in /home/clonemarkets/public_html/hpcourier/signup.php on line 4
+[14-Jun-2018 13:01:41 UTC] PHP Notice:  Undefined index: email in /home/clonemarkets/public_html/hpcourier/signup.php on line 5
+[14-Jun-2018 13:01:41 UTC] PHP Notice:  Undefined index: phone in /home/clonemarkets/public_html/hpcourier/signup.php on line 6
+[14-Jun-2018 13:01:41 UTC] PHP Notice:  Undefined index: password in /home/clonemarkets/public_html/hpcourier/signup.php on line 7
+[14-Jun-2018 13:01:41 UTC] PHP Notice:  Undefined index: c_password in /home/clonemarkets/public_html/hpcourier/signup.php on line 8
+[14-Jun-2018 13:01:41 UTC] PHP Notice:  Undefined index: email in /home/clonemarkets/public_html/hpcourier/login.php on line 5
+[14-Jun-2018 13:01:41 UTC] PHP Notice:  Undefined index: password in /home/clonemarkets/public_html/hpcourier/login.php on line 6
+[15-Jun-2018 10:01:32 UTC] PHP Notice:  Undefined index: name in /home/clonemarkets/public_html/hpcourier/signup.php on line 4
+[15-Jun-2018 10:01:32 UTC] PHP Notice:  Undefined index: email in /home/clonemarkets/public_html/hpcourier/signup.php on line 5
+[15-Jun-2018 10:01:32 UTC] PHP Notice:  Undefined index: phone in /home/clonemarkets/public_html/hpcourier/signup.php on line 6
+[15-Jun-2018 10:01:32 UTC] PHP Notice:  Undefined index: password in /home/clonemarkets/public_html/hpcourier/signup.php on line 7
+[15-Jun-2018 10:01:32 UTC] PHP Notice:  Undefined index: c_password in /home/clonemarkets/public_html/hpcourier/signup.php on line 8
+[15-Jun-2018 10:01:32 UTC] PHP Notice:  Undefined index: email in /home/clonemarkets/public_html/hpcourier/login.php on line 5
+[15-Jun-2018 10:01:32 UTC] PHP Notice:  Undefined index: password in /home/clonemarkets/public_html/hpcourier/login.php on line 6
+[16-Jun-2018 07:17:03 UTC] PHP Fatal error:  Cannot redeclare Api_model::chk_login() in /home/clonemarkets/public_html/hpcourier/application/models/Api_model.php on line 56
+[16-Jun-2018 07:17:06 UTC] PHP Fatal error:  Cannot redeclare Api_model::chk_login() in /home/clonemarkets/public_html/hpcourier/application/models/Api_model.php on line 56
+[16-Jun-2018 07:17:28 UTC] PHP Fatal error:  Cannot redeclare Api_model::chk_login() in /home/clonemarkets/public_html/hpcourier/application/models/Api_model.php on line 56
+[26-Jun-2018 10:45:15 UTC] PHP Fatal error:  Can't use method return value in write context in /home/clonemarkets/public_html/hpcourier/application/controllers/admin/Branch_management.php on line 65
+[29-Jun-2018 12:02:17 UTC] PHP Fatal error:  Cannot redeclare Api::courier_boys() in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 194
+[29-Jun-2018 12:02:25 UTC] PHP Fatal error:  Cannot redeclare Api::courier_boys() in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 194
+[29-Jun-2018 12:02:44 UTC] PHP Fatal error:  Cannot redeclare Api::courier_boys() in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 194
+[29-Jun-2018 12:02:50 UTC] PHP Fatal error:  Cannot redeclare Api::courier_boys() in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 194
+[03-Jul-2018 11:34:39 UTC] PHP Warning:  Unterminated comment starting line 66 in /home/clonemarkets/public_html/hpcourier/application/controllers/admin/Branch.php on line 66
+[03-Jul-2018 12:32:51 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/clonemarkets/public_html/hpcourier/application/views/admin/Branch_add.php on line 63
+[03-Jul-2018 12:32:59 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/clonemarkets/public_html/hpcourier/application/views/admin/Branch_add.php on line 63
+[03-Jul-2018 12:33:07 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/clonemarkets/public_html/hpcourier/application/views/admin/Branch_add.php on line 63
+[03-Jul-2018 12:33:14 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/clonemarkets/public_html/hpcourier/application/views/admin/Branch_add.php on line 63
+[07-Jul-2018 06:43:57 UTC] PHP Fatal error:  Cannot redeclare Api_model::chk_qr_code_detail() in /home/clonemarkets/public_html/hpcourier/application/models/Api_model.php on line 302
+[07-Jul-2018 06:43:59 UTC] PHP Fatal error:  Cannot redeclare Api_model::chk_qr_code_detail() in /home/clonemarkets/public_html/hpcourier/application/models/Api_model.php on line 302
+[07-Jul-2018 06:44:11 UTC] PHP Fatal error:  Cannot redeclare Api_model::chk_qr_code_detail() in /home/clonemarkets/public_html/hpcourier/application/models/Api_model.php on line 302
+[07-Jul-2018 06:44:12 UTC] PHP Fatal error:  Cannot redeclare Api_model::chk_qr_code_detail() in /home/clonemarkets/public_html/hpcourier/application/models/Api_model.php on line 302
+[07-Jul-2018 06:44:14 UTC] PHP Fatal error:  Cannot redeclare Api_model::chk_qr_code_detail() in /home/clonemarkets/public_html/hpcourier/application/models/Api_model.php on line 302
+[07-Jul-2018 06:46:05 UTC] PHP Fatal error:  Cannot redeclare Api_model::chk_qr_code_detail() in /home/clonemarkets/public_html/hpcourier/application/models/Api_model.php on line 302
+[16-Jul-2018 11:41:20 UTC] PHP Fatal error:  Cannot declare class Branch_management_detail, because the name is already in use in /home/clonemarkets/public_html/hpcourier/application/models/admin/Branch_management_detail_model.php on line 155
+[03-Aug-2018 13:45:44 UTC] PHP Warning:  Unterminated comment starting line 117 in /home/clonemarkets/public_html/hpcourier/application/views/admin/Branch_add.php on line 117
+[03-Aug-2018 13:45:46 UTC] PHP Warning:  Unterminated comment starting line 117 in /home/clonemarkets/public_html/hpcourier/application/views/admin/Branch_add.php on line 117
+[03-Aug-2018 13:45:49 UTC] PHP Warning:  Unterminated comment starting line 117 in /home/clonemarkets/public_html/hpcourier/application/views/admin/Branch_add.php on line 117
+[03-Aug-2018 14:54:30 UTC] PHP Fatal error:  Cannot redeclare Branch_model::state_display() in /home/clonemarkets/public_html/hpcourier/application/models/admin/Branch_model.php on line 306
+[03-Aug-2018 14:54:31 UTC] PHP Fatal error:  Cannot redeclare Branch_model::state_display() in /home/clonemarkets/public_html/hpcourier/application/models/admin/Branch_model.php on line 306
+[03-Aug-2018 14:54:48 UTC] PHP Fatal error:  Cannot redeclare Branch_model::state_display() in /home/clonemarkets/public_html/hpcourier/application/models/admin/Branch_model.php on line 306
+[03-Aug-2018 14:54:50 UTC] PHP Fatal error:  Cannot redeclare Branch_model::state_display() in /home/clonemarkets/public_html/hpcourier/application/models/admin/Branch_model.php on line 306
+[03-Aug-2018 14:55:35 UTC] PHP Fatal error:  Cannot redeclare Branch_model::state_display() in /home/clonemarkets/public_html/hpcourier/application/models/admin/Branch_model.php on line 306
+[03-Aug-2018 14:55:36 UTC] PHP Fatal error:  Cannot redeclare Branch_model::state_display() in /home/clonemarkets/public_html/hpcourier/application/models/admin/Branch_model.php on line 306
+[10-Aug-2018 14:19:57 UTC] PHP Fatal error:  Class 'Picqer\Barcode\BarcodeGenerator' not found in /home/clonemarkets/public_html/hpcourier/application/libraries/barcodegenerator/BarcodeGeneratorPNG.php on line 7
+[10-Aug-2018 14:20:16 UTC] PHP Fatal error:  Class 'Picqer\Barcode\BarcodeGenerator' not found in /home/clonemarkets/public_html/hpcourier/application/libraries/barcodegenerator/BarcodeGeneratorPNG.php on line 7
+[10-Aug-2018 14:21:14 UTC] PHP Fatal error:  Class 'Picqer\Barcode\BarcodeGenerator' not found in /home/clonemarkets/public_html/hpcourier/application/libraries/barcodegenerator/BarcodeGeneratorPNG.php on line 7
+[10-Aug-2018 14:22:37 UTC] PHP Fatal error:  Class 'Picqer\Barcode\BarcodeGenerator' not found in /home/clonemarkets/public_html/hpcourier/application/libraries/barcodegenerator/BarcodeGeneratorPNG.php on line 7
+[10-Aug-2018 14:23:30 UTC] PHP Fatal error:  Class 'Picqer\Barcode\BarcodeGenerator' not found in /home/clonemarkets/public_html/hpcourier/application/libraries/barcodegenerator/BarcodeGeneratorPNG.php on line 7
+[10-Aug-2018 14:24:22 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/clonemarkets/public_html/hpcourier/application/libraries/barcodegenerator/BarcodeGeneratorPNG.php on line 4
+[10-Aug-2018 14:24:46 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/clonemarkets/public_html/hpcourier/application/libraries/barcodegenerator/BarcodeGenerator.php on line 30
+[10-Aug-2018 14:28:43 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/clonemarkets/public_html/hpcourier/application/libraries/barcodegenerator/BarcodeGenerator.php on line 30
+[11-Aug-2018 14:44:06 UTC] PHP Fatal error:  Cannot redeclare Api::customer_edit_profile() in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 283
+[11-Aug-2018 14:44:38 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/clonemarkets/public_html/hpcourier/application/controllers/admin/Merchant.php on line 97
+[11-Aug-2018 14:44:42 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/clonemarkets/public_html/hpcourier/application/controllers/admin/Merchant.php on line 97
+[12-Aug-2018 10:59:16 UTC] PHP Warning:  Unterminated comment starting line 245 in /home/clonemarkets/public_html/hpcourier/application/models/Api_model.php on line 245
+[13-Aug-2018 19:40:57 UTC] PHP Fatal error:  Cannot use [] for reading in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 538
+[14-Aug-2018 10:37:59 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/pushnotification/Firebase.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 1884
+[14-Aug-2018 10:39:11 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/pushnotification/Firebase.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 1884
+[14-Aug-2018 10:40:50 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/pushnotification/Firebase.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 1884
+[14-Aug-2018 10:57:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'PushNotifications.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 1885
+[14-Aug-2018 10:58:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'PushNotifications.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 1885
+[14-Aug-2018 10:59:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'PushNotifications.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 1885
+[14-Aug-2018 11:00:55 UTC] PHP Fatal error:  require_once(): Failed opening required 'PushNotifications.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 1885
+[14-Aug-2018 11:01:32 UTC] PHP Fatal error:  require_once(): Failed opening required 'PushNotifications.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 1885
+[14-Aug-2018 11:04:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'PushNotifications.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 1885
+[14-Aug-2018 11:06:46 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clonemarkets/public_html/hpcourier/application/application/controllers/PushNotifications.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 1885
+[14-Aug-2018 11:09:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clonemarkets/public_html/hpcourier/application/libraries/pushnotification.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 1885
+[14-Aug-2018 11:09:48 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clonemarkets/public_html/hpcourier/application/application/libraries/pushnotification.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 1885
+[14-Aug-2018 11:10:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clonemarkets/public_html/hpcourier/application/libraries/pushnotification.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 1885
+[15-Aug-2018 15:58:24 UTC] PHP Notice:  Undefined index: id in /home/clonemarkets/public_html/hpcourier/push_notifications.php on line 4
+[22-Aug-2018 12:13:14 Asia/Kolkata] PHP Fatal error:  Cannot declare class Merchant, because the name is already in use in /home/clonemarkets/public_html/hpcourier/application/views/admin/Merchant.php on line 163
+[22-Aug-2018 12:13:34 Asia/Kolkata] PHP Fatal error:  Cannot declare class Merchant, because the name is already in use in /home/clonemarkets/public_html/hpcourier/application/views/admin/Merchant.php on line 163
+[22-Aug-2018 14:20:31 Asia/Kolkata] PHP Fatal error:  Cannot declare class Merchant, because the name is already in use in /home/clonemarkets/public_html/hpcourier/application/views/admin/Merchant.php on line 163
+[22-Aug-2018 14:25:12 Asia/Kolkata] PHP Fatal error:  Cannot declare class Merchant, because the name is already in use in /home/clonemarkets/public_html/hpcourier/application/views/admin/Merchant.php on line 163
+[22-Aug-2018 14:26:15 Asia/Kolkata] PHP Fatal error:  Cannot declare class Merchant, because the name is already in use in /home/clonemarkets/public_html/hpcourier/application/views/admin/Merchant.php on line 163
+[22-Aug-2018 14:26:15 Asia/Kolkata] PHP Fatal error:  Cannot declare class Merchant, because the name is already in use in /home/clonemarkets/public_html/hpcourier/application/views/admin/Merchant.php on line 163
+[22-Aug-2018 14:29:55 Asia/Kolkata] PHP Fatal error:  Cannot declare class Merchant, because the name is already in use in /home/clonemarkets/public_html/hpcourier/application/views/admin/Merchant.php on line 163
+[22-Aug-2018 14:36:51 Asia/Kolkata] PHP Fatal error:  Cannot declare class Merchant, because the name is already in use in /home/clonemarkets/public_html/hpcourier/application/views/admin/Merchant.php on line 163
+[28-Aug-2018 16:47:26 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 722
+[30-Aug-2018 17:10:21 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 1278
+[07-Sep-2018 16:38:26 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/clonemarkets/public_html/hpcourier/application/views/admin/Order_view.php on line 477
+[11-Sep-2018 16:39:38 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Courier_boys::chk_email() in /home/clonemarkets/public_html/hpcourier/application/controllers/admin/Courier_boys.php on line 200
+[14-Sep-2018 18:57:49 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/clonemarkets/public_html/hpcourier/application/controllers/admin/Courier_boys.php on line 182
+[15-Sep-2018 20:42:06 Asia/Kolkata] PHP Warning:  Unterminated comment starting line 1386 in /home/clonemarkets/public_html/hpcourier/application/controllers/Api.php on line 1386
+[21-Sep-2018 14:25:49 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/clonemarkets/public_html/hpcourier/application/models/admin/Order_report_model.php on line 112
+[21-Sep-2018 15:03:35 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home/clonemarkets/public_html/hpcourier/application/controllers/admin/Order_report.php on line 20
+[03-Oct-2018 11:40:13 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/libraries/barcodegenerator/Barcode.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/clonemarkets/public_html/hpcourier/application/models/admin/Add_order_model.php on line 2
+[03-Oct-2018 11:40:47 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/application/libraries/barcodegenerator/Barcode.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/clonemarkets/public_html/hpcourier/application/models/admin/Add_order_model.php on line 2
+[03-Oct-2018 11:41:06 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '../application/libraries/barcodegenerator/Barcode.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/clonemarkets/public_html/hpcourier/application/models/admin/Add_order_model.php on line 2
